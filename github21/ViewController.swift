@@ -3,8 +3,8 @@
 //  github21
 //
 //  Created by rvcstudent on 4/17/21.
-// Ricardo Gordiano 
-
+// Ricardo Gordiano
+// i like the tech-bus 
 import UIKit
 
 class ViewController: UIViewController {
